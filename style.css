@@ -1,0 +1,49 @@
+body {
+    font-family: Times New Roman, sans-serif;
+	color: #8B0000;
+    text-align: center;
+   background-image: url("6_pengu.jpg");
+ background-color: #cccccc;
+
+}
+
+form {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: rgba(222, 132, 210, 0.5); 
+    color: #00008B;
+   
+
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
